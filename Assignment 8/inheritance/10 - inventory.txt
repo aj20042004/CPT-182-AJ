@@ -1,0 +1,4 @@
+Fruit		Banana		10	12/16/2019	false
+Generic		Flashlight	12
+Book		Futuretelling	50	10012341235223
+Produce		Artichoke	32	11/23/2019
